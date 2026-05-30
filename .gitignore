@@ -1,0 +1,20 @@
+# Raw data files
+data/raw/
+data/rejected/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# Power BI local/temp files
+*.tmp
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
